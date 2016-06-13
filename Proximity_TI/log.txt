@@ -1,0 +1,40 @@
+Service name: Link Loss
+Processing char: Alert Level
+  No variable length fields, setting max length equal to min length.
+  1 fields in char.
+  Allocated (max) length calculated to: 1 bytes
+  Minimum length calculated to: 1 bytes
+---------------
+Generated header file: Proximity_TI/Link_Loss.h
+Generated code file: Proximity_TI/Link_Loss.c
+Service name: Immediate Alert
+Processing char: Alert Level
+  No variable length fields, setting max length equal to min length.
+  1 fields in char.
+  Allocated (max) length calculated to: 1 bytes
+  Minimum length calculated to: 1 bytes
+---------------
+Generated header file: Proximity_TI/Immediate_Alert.h
+Generated code file: Proximity_TI/Immediate_Alert.c
+Service name: Tx Power
+Processing char: Tx Power Level
+  No variable length fields, setting max length equal to min length.
+  1 fields in char.
+  Allocated (max) length calculated to: 1 bytes
+  Minimum length calculated to: 1 bytes
+---------------
+Generated header file: Proximity_TI/Tx_Power.h
+Generated code file: Proximity_TI/Tx_Power.c
+Service name: Battery Service
+Processing char: Battery Level
+  No variable length fields, setting max length equal to min length.
+  1 fields in char.
+  Allocated (max) length calculated to: 1 bytes
+  Minimum length calculated to: 1 bytes
+---------------
+Generated header file: Proximity_TI/Battery_Service.h
+Generated code file: Proximity_TI/Battery_Service.c
+Generated code file: Proximity_TI/app_snippets.c
+Contains example usage of generated services.
+Generated code file: Proximity_TI/simpleBLEPeripheral.c
+Modified sample-app file for SimpleBLEPeripheral project.
